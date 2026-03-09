@@ -1,0 +1,13 @@
+{
+  "brandName": "An Yên Garden",
+  "defaultLocale": "vi",
+  "coverImageUrl": "/data/cover.jpg",
+  "contact": {
+    "label": "Liên hệ",
+    "phone": "0393989111",
+    "zalo": "08712345687",
+    "email": "nguyenkhoa@gmail.com",
+    "address": "Quận 1, Thành phố Hồ Chí Minh"
+  },
+  "dataSource": "file"
+}

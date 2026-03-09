@@ -1,0 +1,60 @@
+[
+  {
+    "id": "rau-muong",
+    "categoryId": "rau",
+    "name": "Rau muống",
+    "nameEn": "Water spinach",
+    "description": "Rau muống sạch, tươi ngon.\n\nTrồng theo hướng hữu cơ, không phun thuốc. Mỗi bó khoảng 200g, đủ cho 2–3 người. Bảo quản ngăn mát 2–3 ngày.",
+    "descriptionEn": "Fresh water spinach.\n\nOrganically grown, no pesticides. About 200g per bunch, enough for 2–3 people. Keep refrigerated 2–3 days.",
+    "price": 15000,
+    "unit": "bó",
+    "sku": "RM001",
+    "weight": "200g",
+    "origin": "Đà Lạt",
+    "contactLink": "",
+    "order": 1,
+    "featured": true,
+    "available": true,
+    "imageUrl": "/data/products/rau/rau-muong/cover.jpg",
+    "images": [
+      "/data/products/rau/rau-muong/images/1.jpg",
+      "/data/products/rau/rau-muong/images/2.jpg"
+    ]
+  },
+  {
+    "id": "tao-xanh",
+    "categoryId": "trai-cay",
+    "name": "Táo xanh",
+    "nameEn": "Green apple",
+    "description": "Táo giòn ngọt, bảo quản mát.",
+    "descriptionEn": "Crisp and sweet, keep refrigerated.",
+    "price": 55000,
+    "unit": "kg",
+    "sku": "TX001",
+    "origin": "New Zealand",
+    "contactLink": "",
+    "order": 1,
+    "featured": true,
+    "available": true,
+    "imageUrl": "/data/products/trai-cay/tao-xanh/cover.jpg",
+    "images": []
+  },
+  {
+    "id": "ca-chua",
+    "categoryId": "rau",
+    "name": "Cà chua bi",
+    "nameEn": "Cherry tomatoes",
+    "description": "Cà chua bi ngọt, không hóa chất.",
+    "descriptionEn": "Sweet cherry tomatoes, no chemicals.",
+    "price": 35000,
+    "unit": "kg",
+    "sku": "CC002",
+    "origin": "Lâm Đồng",
+    "contactLink": "",
+    "order": 2,
+    "featured": false,
+    "available": true,
+    "imageUrl": "/data/products/rau/ca-chua/cover.jpg",
+    "images": []
+  }
+]

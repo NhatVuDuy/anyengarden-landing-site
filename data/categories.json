@@ -1,0 +1,14 @@
+[
+  {
+    "id": "rau",
+    "name": "Rau sạch",
+    "nameEn": "Vegetables",
+    "order": 1
+  },
+  {
+    "id": "trai-cay",
+    "name": "Trái cây",
+    "nameEn": "Fruits",
+    "order": 2
+  }
+]
