@@ -1,8 +1,8 @@
 [
   {
-    "id": "rau",
-    "name": "Rau sạch",
-    "nameEn": "Vegetables",
+    "id": "hat-dinh-duong",
+    "name": "Hạt dinh dưỡng",
+    "nameEn": "Nutritional grains",
     "order": 1
   },
   {
@@ -10,5 +10,11 @@
     "name": "Trái cây",
     "nameEn": "Fruits",
     "order": 2
+  },
+  {
+    "id": "rau",
+    "name": "Rau sạch",
+    "nameEn": "Vegetables",
+    "order": 3
   }
 ]

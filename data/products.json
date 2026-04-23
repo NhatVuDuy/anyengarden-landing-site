@@ -1,5 +1,59 @@
 [
   {
+    "id": "Hạt dinh dưỡng Granola Premium",
+    "categoryId": "hat-dinh-duong",
+    "name": "Hạt dinh dưỡng Granola Premium",
+    "nameEn": "Nutritional Granola Premium",
+    "description": "được làm từ hạt điều, hạnh nhân, xoài sấy, nho khô, hạt bí, dừa sấy, gạo lứt, hạt macca, óc chó",
+    "descriptionEn": "Made from seeds, almonds, dried peaches, dried grapes, pumpkin seeds, dried coconut, glutinous rice, maca seeds, dog's brain",
+    "price": 15000,
+    "unit": "hộp",
+    "priceTiers": [
+      {
+        "qty": 1,
+        "totalPrice": 250000,
+        "label": "1 hộp",
+        "labelEn": "1 bunch",
+        "note": "",
+        "noteEn": ""
+      },
+      {
+        "qty": 2,
+        "totalPrice": 450000,
+        "label": "2 hộp",
+        "labelEn": "2 bunches",
+        "note": "225.000đ/hộp (combo)",
+        "noteEn": ""
+      },
+      {
+        "qty": 5,
+        "totalPrice": 999000,
+        "label": "5 hộp",
+        "labelEn": "5 bunches",
+        "note": "200.000đ/hộp (combo)",
+        "noteEn": ""
+      }
+    ],
+    "notes": "Giao hàng tận nơi trong nội thành. Đơn tối thiểu 250.000đ.",
+    "notesEn": "Delivery in city. Minimum order 50,000đ.",
+    "sku": "RM001",
+    "weight": "",
+    "packaging": "Hộp thiếc 500g",
+    "packagingEn": "Tin box 500g",
+    "origin": "Hồ Chí Minh",
+    "contactLink": "",
+    "order": 1,
+    "featured": true,
+    "available": true,
+    "imageUrl": "/data/products/hat-dinh-duong/Hạt dinh dưỡng Granola Premium/cover.jpg",
+    "images": [
+      "/data/products/hat-dinh-duong/Hạt dinh dưỡng Granola Premium/images/07bffbf322f6a9a8f0e74.jpg",
+      "/data/products/hat-dinh-duong/Hạt dinh dưỡng Granola Premium/images/0899d4d50dd0868edfc13.jpg",
+      "/data/products/hat-dinh-duong/Hạt dinh dưỡng Granola Premium/images/Giá sản phẩm Granola.PNG",
+      "/data/products/hat-dinh-duong/Hạt dinh dưỡng Granola Premium/images/ffaa30e8e9ed62b33bfc2.jpg"
+    ]
+  },
+  {
     "id": "rau-muong",
     "categoryId": "rau",
     "name": "Rau muống",
